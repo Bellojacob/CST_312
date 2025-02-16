@@ -1,0 +1,4 @@
+public_ipv4_addr = 204.236.168.201
+public_ipv4_dns = ec2-204-236-168-201.us-west-1.compute.amazonaws.com
+instance_type = t2.micro
+ami_name = al2023-ami-2023.6.20250203.1-kernel-6.1-x86_64
