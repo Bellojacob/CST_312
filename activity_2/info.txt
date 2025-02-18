@@ -1,4 +1,4 @@
-public_ipv4_addr = 54.153.121.13
-public_ipv4_dns = ec2-54-153-121-13.us-west-1.compute.amazonaws.com
+public_ipv4_addr = 50.18.81.191
+public_ipv4_dns = ec2-50-18-81-191.us-west-1.compute.amazonaws.com
 instance_type = t2.micro
 ami_name = ubuntu/images/hvm-ssd-gp3/ubuntu-noble-24.04-amd64-server-20250115
