@@ -1,4 +1,0 @@
-aol correct shift amount for this message qa seventeen
-each letter jo the rnckpvgzv is replaced cz b letter some fixed number pg positions down the alphabet jo caesar cipher
-messages encrypted li n public key ger only or decrypted li esp associated private key va esp key pair public key ger or shared private key must or kept secret
-using secret key cryptography when sender and receiver agree on a share secret can send messages on a medium that can be taped without worrying about eavesdroppers this is the classic use of cryptography

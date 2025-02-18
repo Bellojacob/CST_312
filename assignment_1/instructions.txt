@@ -1,0 +1,10 @@
+To run this program, unzip the folder, navigate to the directory of the program through the terminal,
+and on windows run python Main.py or on macOs run python3 Main.py in the terminal or powershell.
+After this command is ran, you will enter the program, the program will prompt you to enter a ciphertext file,
+the file I have been using for testing is the file which has been provided, "sample-secret-message-caesar-ciphertext.txt".
+Once this file is enter, the program will execute and it will create or overwrite to output.txt, and it will also
+print to the console. The contents of these outputs will be the decrypted text along with the shift amount preceding. This 
+output file should be found in the same directory as the program. 
+
+I also included a file called sample-cipher.txt which helped me confirm my program was working with other test cases, these 
+were generated using ChatGPT.
